@@ -1,0 +1,29 @@
+body{
+    background-image: url(image/8d4efb616a9f60d0f5074ca42dba607e.jpg);
+    margin:0;
+    padding: 0;
+
+}
+.header{
+    width: 100%;
+    z-index: 1;
+    font-family: 'Akaya Telivigala', cursive;
+    
+}
+.headerStyle{
+    color: rgb(69, 132, 250);
+    
+}
+.datosInversionista{
+    margin-top: 150px;
+    margin-bottom: 60px;
+
+}
+.card{
+ padding-left: 3%;
+ border-radius: 10%;
+margin: 5%;
+margin-left: auto;
+border: solid 5px rgb(69, 132, 250);
+
+}
